@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D7F09412371260E00A2F2BF /* sword-slash1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6D7F09402371260E00A2F2BF /* sword-slash1.mp3 */; };
+		6D7F09442371586800A2F2BF /* sword-slash2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6D7F09422371586800A2F2BF /* sword-slash2.mp3 */; };
+		6D7F09452371586800A2F2BF /* sword-slash3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6D7F09432371586800A2F2BF /* sword-slash3.mp3 */; };
 		6DC8F8FA237102C1000D12FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DC8F8F9237102C1000D12FD /* AppDelegate.swift */; };
 		6DC8F8FC237102C1000D12FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DC8F8FB237102C1000D12FD /* SceneDelegate.swift */; };
 		6DC8F8FE237102C1000D12FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DC8F8FD237102C1000D12FD /* ViewController.swift */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D7F09402371260E00A2F2BF /* sword-slash1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "sword-slash1.mp3"; path = "../../../../../Desktop/sword-slash1.mp3"; sourceTree = "<group>"; };
+		6D7F09422371586800A2F2BF /* sword-slash2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "sword-slash2.mp3"; path = "../../../../../Desktop/sword-slash2.mp3"; sourceTree = "<group>"; };
+		6D7F09432371586800A2F2BF /* sword-slash3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "sword-slash3.mp3"; path = "../../../../../Desktop/sword-slash3.mp3"; sourceTree = "<group>"; };
 		6DC8F8F6237102C1000D12FD /* SoundSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DC8F8F9237102C1000D12FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DC8F8FB237102C1000D12FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +108,9 @@
 				6DC8F8F9237102C1000D12FD /* AppDelegate.swift */,
 				6DC8F8FB237102C1000D12FD /* SceneDelegate.swift */,
 				6DC8F8FD237102C1000D12FD /* ViewController.swift */,
+				6D7F09402371260E00A2F2BF /* sword-slash1.mp3 */,
+				6D7F09422371586800A2F2BF /* sword-slash2.mp3 */,
+				6D7F09432371586800A2F2BF /* sword-slash3.mp3 */,
 				6DC8F8FF237102C1000D12FD /* Main.storyboard */,
 				6DC8F902237102C2000D12FD /* Assets.xcassets */,
 				6DC8F904237102C2000D12FD /* LaunchScreen.storyboard */,
@@ -232,8 +241,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D7F09452371586800A2F2BF /* sword-slash3.mp3 in Resources */,
+				6D7F09442371586800A2F2BF /* sword-slash2.mp3 in Resources */,
 				6DC8F906237102C2000D12FD /* LaunchScreen.storyboard in Resources */,
 				6DC8F903237102C2000D12FD /* Assets.xcassets in Resources */,
+				6D7F09412371260E00A2F2BF /* sword-slash1.mp3 in Resources */,
 				6DC8F901237102C1000D12FD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
